@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClaAbstracta/ClaAbstracta.iml" filepath="$PROJECT_DIR$/ClaAbstracta/ClaAbstracta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploIGU/EjemploIGU.iml" filepath="$PROJECT_DIR$/EjemploIGU/EjemploIGU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio3/Ejercicio3.iml" filepath="$PROJECT_DIR$/Ejercicio3/Ejercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" filepath="$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GestorAlumnos/GestorAlumnos.iml" filepath="$PROJECT_DIR$/GestorAlumnos/GestorAlumnos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gestor_VTV/Gestor_VTV.iml" filepath="$PROJECT_DIR$/Gestor_VTV/Gestor_VTV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDoWhile/JavaDoWhile.iml" filepath="$PROJECT_DIR$/JavaDoWhile/JavaDoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFor/JavaFor.iml" filepath="$PROJECT_DIR$/JavaFor/JavaFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWhile/JavaWhile.iml" filepath="$PROJECT_DIR$/JavaWhile/JavaWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetBeansProjects.iml" filepath="$PROJECT_DIR$/.idea/NetBeansProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sensores/Sensores.iml" filepath="$PROJECT_DIR$/Sensores/Sensores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TPIntegrador/TPIntegrador.iml" filepath="$PROJECT_DIR$/TPIntegrador/TPIntegrador.iml" />
+    </modules>
+  </component>
+</project>

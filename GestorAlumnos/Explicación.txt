@@ -1,0 +1,24 @@
+En este proyecto nos tocó aplicar el paradigma de Programación Orientada a Objetos (POO). Nosotros planteamos un problema
+que desarrolle un sistema de gestión de alumnos que permita registrar estudiantes, 
+mostrar los datos y gestionar su asistencia. El paradigma se justifica por la necesidad de representar cosas físicas del
+mundo real, en este caso: alumnos, mediante objetos que encapsulen atributos y métodos
+
+El proyecto está organizado en tres paquetes principales para mantener el código conciso y claro:
+
+Main.java: Punto de entrada al programa, inicia la interfaz gráfica de usuario
+Modelos/Alumno.java: Define el modelo de datos del alumno utilizando una clase que encapsula sus atributos y métodos
+GUI/AlumnoGUI.java: Contiene la lógica de la interfaz gráfica de usuario utilizando JFrame para gestionar
+la interacción con el usuario y sea más óptima a la hora de cargar alumnos. Siempre van a estar en false(ausente)
+hasta que se marque la casilla
+
+Los atributos (características) son: nombre, apellido, comision, promedio y presente
+los métodos (comportamientos) son : obtenerNombreCompleto,obtenerPromedio, estarPresente, estarAusente y 
+toString. Este último se usa para mostrar el nombre completo y el estado del alumno
+
+Luego, para la Interfaz Gráfica de Usuario, se hace uso de la librería Swing, propia de Java, estándar para GUI justamente
+El proyecto lleva Campos de texto: Sirve para ingresar el nombre, apellido, comisión y promedio del alumno
+CheckBox: Casilla para indicar si el alumno está presente o no
+JList: Para visualizar la lista de alumnos registrados
+Botones: Para agregar alumnos, mostrar datos y marcar asistencias
+
+Realizado por Carballo, Axel Adrián && Ponce Maurino, Alejo
